@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Drashti Gajera</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://iconscout.com/lottie-animation/female-web-developer-7362399" >
+<img align="right" alt="coding" width="400" src="https://iconscout.com/lottie-animation/female-web-developer-7362399.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drashtigajera&label=Profile%20views&color=0e75b6&style=flat" alt="drashtigajera" /> </p>
 
