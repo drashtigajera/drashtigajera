@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Drashti Gajera</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://iconscout.com/lottie-animation/female-web-developer-7362399.gif" >
+<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Ffemale-web-developer-7362399-6031664.gif&tbnid=s91A6iFa6uY5iM&vet=12ahUKEwi8qKfllZeFAxWWjmMGHVLQDJAQMygAegQIARBT..i&imgrefurl=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Ffemale-web-developer&docid=ZjWDDJ36-bSAdM&w=419&h=256&q=girl%20animated%20coding%20gif&hl=en-US&ved=2ahUKEwi8qKfllZeFAxWWjmMGHVLQDJAQMygAegQIARBT">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drashtigajera&label=Profile%20views&color=0e75b6&style=flat" alt="drashtigajera" /> </p>
 
